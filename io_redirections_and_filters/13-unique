@@ -1,2 +1,2 @@
 #!/bin/bash
-wc -lw |sort | uniq -u
+wc |sort -u | uniq -u
