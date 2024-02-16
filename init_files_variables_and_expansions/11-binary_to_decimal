@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "BINARY\n" | bc
+echo $(("BINARY\n")) | bc
