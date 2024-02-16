@@ -1,2 +1,2 @@
 #!/bin/bash
-export PATH | mkdir action 
+mkdir action >> PATH
